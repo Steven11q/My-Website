@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "GitBlog",
+    "description": "",
+    "home_page_url": "https://steven11q.github.io/My-Website",
+    "feed_url": "https://steven11q.github.io/My-Website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Hunter Ross"
+    },
+    "items": [
+        {
+            "id": "https://steven11q.github.io/My-Website/test123.html",
+            "url": "https://steven11q.github.io/My-Website/test123.html",
+            "title": "Test123",
+            "summary": "this is a test",
+            "content_html": "<p>this is a test</p>",
+            "author": {
+                "name": "Hunter Ross"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-02-28T22:49:22-05:00",
+            "date_modified": "2025-02-28T22:49:22-05:00"
+        }
+    ]
+}

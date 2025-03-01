@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>GitBlog</title>
+    <link href="https://steven11q.github.io/My-Website/feed.xml" rel="self" />
+    <link href="https://steven11q.github.io/My-Website" />
+    <updated>2025-02-28T22:49:22-05:00</updated>
+    <author>
+        <name>Hunter Ross</name>
+    </author>
+    <id>https://steven11q.github.io/My-Website</id>
+
+    <entry>
+        <title>Test123</title>
+        <author>
+            <name>Hunter Ross</name>
+        </author>
+        <link href="https://steven11q.github.io/My-Website/test123.html"/>
+        <id>https://steven11q.github.io/My-Website/test123.html</id>
+
+        <updated>2025-02-28T22:49:22-05:00</updated>
+            <summary>
+                <![CDATA[
+                    this is a test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>this is a test</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
