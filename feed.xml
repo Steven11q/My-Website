@@ -3,14 +3,14 @@
     <title>GitBlog</title>
     <link href="https://steven11q.github.io/My-Website/feed.xml" rel="self" />
     <link href="https://steven11q.github.io/My-Website" />
-    <updated>2025-02-28T22:49:22-05:00</updated>
+    <updated>2025-02-28T22:56:09-05:00</updated>
     <author>
         <name>Hunter Ross</name>
     </author>
     <id>https://steven11q.github.io/My-Website</id>
 
     <entry>
-        <title>Test123</title>
+        <title>yadayada</title>
         <author>
             <name>Hunter Ross</name>
         </author>
@@ -20,12 +20,12 @@
         <updated>2025-02-28T22:49:22-05:00</updated>
             <summary>
                 <![CDATA[
-                    this is a test
+                    testtestest
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>this is a test</p>
+                <p>testtestest</p>
             ]]>
         </content>
     </entry>
